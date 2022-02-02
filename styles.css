@@ -2,6 +2,16 @@
    margin:0 auto; /* this will center the page */
    width:960px; /*  use your width here */
 }
+
+body {
+  color: #cccccc;
+  background-color: #151515;
+}
+
+p {
+  font-family: sans-serif;
+}
+
 img {
 	height: auto;
 	width: 250px;
